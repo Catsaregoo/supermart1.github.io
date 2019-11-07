@@ -1,0 +1,10 @@
+
+
+<h1 style="background-color: green;">supermart <h2> Promotions<h2><button onclick="location.href='supermart.now.sh'">Go Back to Home page</button></h1>
+<style>
+h2{font-family: Calibri; color:black}
+h1{font-family: Calibri; Color:lightgreen} 
+h3{font-family: Calibri; color:red}
+h4{font-family: Calibri; color:blue}
+h5{font-family: Calibri; color:black}
+</style>
